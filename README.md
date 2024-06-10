@@ -11,3 +11,6 @@ This is a simple shellscript that takes a filename as an argument, creates a fil
 
 # garc.ps1
 This is a powershell script that backups files from gDrive and stores them in a compressed archive locally.
+
+# user_highest_du.py
+Prints the name of the user with the highest home directory usage along with their home directory disk usage
