@@ -1,6 +1,8 @@
-**scanner_final.sh:** Usage: scanner_final <first three octets of /24 subnet> <start of range> <end of range>
+|**filename**|**description**|
+|scanner_final.sh|A simple scanner designed to explore bash scripting and network scanning|
 
-A simple scanner designed to explore bash scripting and network scanning
+
+
 
 **ws.sh:** This is a simple shellscript that takes a filename as an argument, changes it to executable, and opens it up in vim.
 Used to speed up my workflow a touch.
