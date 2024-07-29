@@ -6,3 +6,4 @@
 |garc.ps1|This is a powershell script that backups files from gDrive and stores them in a compressed archive locally.|
 |user_highest_du.py|Prints the name of the user with the highest home directory usage along with their home directory disk usage|
 |070824userinfo.py|Prints a table containing the following information for each active user on the system: username, home directory, disk usage of home directory|
+|072924archive.sh|A basic backup script for archiving my shell scripts|
